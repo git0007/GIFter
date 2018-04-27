@@ -1,4 +1,4 @@
-# GIFter
+# GIFter changed
 
 The GIF-to-Chatter app for Lightning Platform you didn't know you needed!
 
